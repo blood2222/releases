@@ -1,6 +1,6 @@
 https://signatum.io/bootstrap.rar
 MD5 - 361fef5c2debbbf9ff44fb41d91193e9 
 
-Howto Bootstrap <br>
+Howto Bootstrap </br>
 Simply erase all files except wallet.dat from your data directory and place the bootstrap.dat file there. Launch wallet and it will import chain data. <br>
 
