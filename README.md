@@ -10,5 +10,5 @@ libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-d
 Install by sudo apt-get install libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-dev <br>
 <br>
 
-Orange Pi Prime: http://www.orangepi.org/OrangePiPrime/
+Orange Pi Prime: http://www.orangepi.org/OrangePiPrime/ <br>
 Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
