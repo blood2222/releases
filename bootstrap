@@ -1,5 +1,5 @@
-https://signatum.io/bootstrap.rar
-MD5 - 4a5abb8e5c309f7e1b1c8c3d5b37fedb 
+Bootstrap from http://bootstrap.signatum.network (Updated every 24 hours)
+
 
 Howto Bootstrap 
 Simply erase all files except wallet.dat and signatum.conf from your data directory and place the bootstrap.dat file there.
