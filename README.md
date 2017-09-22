@@ -11,4 +11,6 @@ Install by sudo apt-get install libssl-dev libdb++-dev libdb-dev libboost-all-de
 <br>
 
 Orange Pi Prime: http://www.orangepi.org/OrangePiPrime/ <br>
-Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ <br>
+
+Do not forget to chmod +x signatumd after downloading and installing dependencies. 
