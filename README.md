@@ -13,6 +13,9 @@ Install by sudo apt-get install libssl-dev libdb++-dev libdb-dev libboost-all-de
 # Notes:
 
 1. Qt based wallets for ARM are not tested <br>
+2. DTB for A64 SoC is a WIP and apt upgrade corrupts the bootloader. Stick to the default kernel as the development for this SoC is 
+slow and full of bugs.
+3. H3 and H5 based SoC boards must be used with a heatsink due to high clock speeds. Expect big CPU throttles wihtout them.
 
 Orange Pi Prime: http://www.orangepi.org/OrangePiPrime/ (H5 SoC based) <br>
 Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ (Broadcom arm71 based)<br>
