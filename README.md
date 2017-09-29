@@ -10,7 +10,9 @@ libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-d
 Install by sudo apt-get install libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-dev <br>
 <br>
 
-Note: Qt based wallets for ARM are not tested <br>
+# Notes:
+
+1. Qt based wallets for ARM are not tested <br>
 
 Orange Pi Prime: http://www.orangepi.org/OrangePiPrime/ (H5 SoC based) <br>
 Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ (Broadcom arm71 based)<br>
